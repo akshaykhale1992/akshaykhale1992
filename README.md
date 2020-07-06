@@ -2,7 +2,7 @@
 
 I am working as Senior Software Engineer with [Vamaship](https://www.vamaship.com/).
 My responsibilities include maintaining and adding features to Customer Panel and ERP of Vamaship.
-At Vamaship, we follow API first Test Driven Development appreach where the Back-end API is developed using PHP and Front-end is developed using VueJS.
+At Vamaship, we follow API first, Test Driven Development approach where the Back-end API is developed using PHP and Front-end is developed using VueJS.
 
 ## ✨ My Expertise
 - PHP
