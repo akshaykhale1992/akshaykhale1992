@@ -1,6 +1,9 @@
 # 👋  Hi, I am Akshay Khale - @akshaykhale1992
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshaykhale1992)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/akshaykhale1992)
+[![GitHub followers](https://img.shields.io/github/followers/akshaykhale1992.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/akshaykhale1992?tab=followers)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/akshaykhale1992)
 
 I am a FullStack Web-developer from Mumbai working with a Startup as Sr. Software Engineer. My prime expertise include PHP and Javascript but I also like to play around a little with [Flutter](https://flutter.dev/), [Rust](https://www.rust-lang.org/), and Python.
 
