@@ -16,6 +16,7 @@ When I am not coding, I try to help fellow coders on [Stackoverflow](https://sta
 - VueJS
 
 ## Opensource contributions:
+- [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP): PHP.
 - [Console Logger](https://github.com/akshaykhale1992/console-logger): PHP.
 - [News App](https://github.com/akshaykhale1992/flutter-news-app): Flutter, [News API](https://newsapi.org/).
 - [Expense Tracker](https://github.com/akshaykhale1992/flutter-expense-tracker): Flutter.
