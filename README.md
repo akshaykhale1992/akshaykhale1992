@@ -20,6 +20,7 @@ When I am not coding, I try to help fellow coders on [Stackoverflow](https://sta
 - [Console Logger](https://github.com/akshaykhale1992/console-logger): PHP.
 - [News App](https://github.com/akshaykhale1992/flutter-news-app): Flutter, [News API](https://newsapi.org/).
 - [Expense Tracker](https://github.com/akshaykhale1992/flutter-expense-tracker): Flutter.
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Markdown.
 
 ## Articles
 - [Some of the most followed PHP Standards and Coding-styles](https://medium.com/swlh/some-of-the-most-followed-php-standards-and-coding-styles-7abcf7d34a5e)
