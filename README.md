@@ -54,6 +54,7 @@ When I am not coding, I try to help fellow coders on [Stackoverflow](https://sta
 - Medium Blog: [https://medium.com/@TheAkshayKhale](https://medium.com/@TheAkshayKhale)
 - StackOverflow: [https://stackoverflow.com/users/2541634/akshay-khale](https://stackoverflow.com/users/2541634/akshay-khale)
 - Dev.to: [https://dev.to/akshaykhale1992](https://dev.to/akshaykhale1992)
+- [Resume](https://resume.io/r/2tE2n52Lk)
 
 ## Misc.
 [![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaykhale1992&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/akshaykhale1992)
