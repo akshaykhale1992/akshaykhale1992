@@ -16,8 +16,11 @@ When I am not coding, I try to help fellow coders on [Stackoverflow](https://sta
 - Laravel
 - Javascript
 - VueJS
+- React (with Redux and Redux Saga)
+- NextJS
 
 ## Opensource contributions:
+- [You-Dont-Need-image](https://github.com/akshaykhale1992/You-Dont-Need-image): HTML, CSS.
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP): PHP.
 - [Console Logger](https://github.com/akshaykhale1992/console-logger): PHP.
 - [News App](https://github.com/akshaykhale1992/flutter-news-app): Flutter, [News API](https://newsapi.org/).
@@ -39,7 +42,7 @@ When I am not coding, I try to help fellow coders on [Stackoverflow](https://sta
 - [Using Composer the Right way](https://medium.com/@TheAkshayKhale/using-composer-the-right-way-5e38439dc189)
 - [Weapons for computer programmers](https://medium.com/@TheAkshayKhale/weapons-for-computer-programmers-b336b6b2549a)
 - [Let’s build a simple Stateful Widget in Flutter](https://medium.com/@TheAkshayKhale/lets-build-a-simple-stateful-widget-in-flutter-d6e2b451bf6c)
-
+- [Understanding Ethereum](https://tech.shaadi.com/2022/04/27/understanding-ethereum/)
 
 ### Misc.
 - [Lockdown is an opportunity for personal growth](https://medium.com/peakmind/lockdown-is-an-opportunity-for-personal-growth-24c6bbbb5b38)
@@ -52,7 +55,7 @@ When I am not coding, I try to help fellow coders on [Stackoverflow](https://sta
 
 ## 💌 Get in touch
 - Twitter: [@TheAkshayKhale](https://twitter.com/TheAkshayKhale)
-- Personal Website: [akshaykhale.com](http://akshaykhale.com/)
+- Personal Website: [theakshaykhale.github.io/](https://theakshaykhale.github.io/)
 - Medium Blog: [https://medium.com/@TheAkshayKhale](https://medium.com/@TheAkshayKhale)
 - StackOverflow: [https://stackoverflow.com/users/2541634/akshay-khale](https://stackoverflow.com/users/2541634/akshay-khale)
 - Dev.to: [https://dev.to/akshaykhale1992](https://dev.to/akshaykhale1992)
