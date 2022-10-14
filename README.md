@@ -5,6 +5,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/akshaykhale1992.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/akshaykhale1992?tab=followers)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/akshaykhale1992)
 
+[![@akshaykhale1992's Holopin board](https://holopin.me/akshaykhale1992)](https://holopin.io/@akshaykhale1992)
+
 I am a _FullStack Web-developer_ from _Mumbai_ working with a Startup as __Sr. Software Engineer__. My prime expertise include PHP and Javascript but I also like to play around a little with [Flutter](https://flutter.dev/), [Rust](https://www.rust-lang.org/), and Python.
 
 When I am not coding, I try to help fellow coders on [Stackoverflow](https://stackoverflow.com/users/2541634/akshay-khale) trying to answer some questions, or on [Dev.to](https://dev.to/akshaykhale1992). I also spend some time writing articles on [Medium](https://medium.com/@TheAkshayKhale), or share some micro-articles on [Twitter](https://twitter.com/TheAkshayKhale) or [LinkedIn](https://www.linkedin.com/in/theakshaykhale/).
